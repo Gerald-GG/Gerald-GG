@@ -25,6 +25,7 @@ I am dedicated to acquiring hands-on experience in building software solutions t
 
 # Connect with Me
 You can find me on GitHub,LinkedIn and other platforms. On GitHub is where I often share my coding projects and contribute to open-source repositories.
+
 . <a href="https://github.com/Gerald-GG">Visit my GitHub Profile</a>
 
 . <a href="https://www.instagram.com/gerald_.gg/">Reach me on Instragram</a>
