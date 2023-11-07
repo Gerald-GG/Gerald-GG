@@ -32,7 +32,7 @@ You can find me on GitHub,LinkedIn and other platforms. On GitHub is where I oft
 
 . <a href="https://www.linkedin.com/in/gerald-mwangi-3a6067244/">Connect with me on LinkedIn</a>
 
-.Email: gicharugerald@gmail.com
+. <a href="gicharugerald@gmail.com">Write and Reach me on my gmail<a/>
 
 
 I am always open to networking and collaborating on exciting projects. Please feel free to reach out to me via email or on GitHub or any other platform
