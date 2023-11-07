@@ -1,6 +1,6 @@
 # Hi 👋, call me Gerald.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnigerianfinder.com%2Fsoftware-engineering-in-nigeria-how-to-start-your-career%2F&psig=AOvVaw12pBq3zdaHIlHr1BjtoScL&ust=1699439885862000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCx6sPZsYIDFQAAAAAdAAAAABAJ" alt="This how we move.">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnigerianfinder.com%2Fsoftware-engineering-in-nigeria-how-to-start-your-career%2F&psig=AOvVaw12pBq3zdaHIlHr1BjtoScL&ust=1699439885862000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCx6sPZsYIDFQAAAAAdAAAAABAJ" alt="This how I move.">
 
                                                                     
 # I am a Software Engineer based in Nairobi, Kenya.
