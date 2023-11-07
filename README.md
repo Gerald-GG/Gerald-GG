@@ -9,9 +9,9 @@ I am enthusiastic about programming and technology, and I'm constantly seeking t
 
 # Education
 ## Bachelor's degree in Computer Science 
-   **Institution:  Murang'a University of Technology.
-   **Location: Murang'a County, Kenya.
-   **Year of Graduation: 2023.
+   * Institution:  Murang'a University of Technology.
+   * Location: Murang'a County, Kenya.
+   * Year of Graduation: 2023.
 
 ## CCNA Certifiaction
    ** Institution: Jomo Kenyatta University of Agriculture and Technology.
