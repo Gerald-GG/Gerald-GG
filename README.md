@@ -3,12 +3,24 @@
 # I am a Software Engineer based in Nairobi, Kenya.
 
 # About Me.                    
-Hello, I'm a passionate software engineer currently studying software engineering at Moringa School in Kenya.
+Hello, I'm a passionate software engineer currently pursuing software engineering at Moringa School, Kenya.
 I have a strong foundation in computer science, having graduated from Murang'a University of Technology, Kenya. 
 I am enthusiastic about programming and technology, and I'm constantly seeking to enhance my skills and knowledge in the field.
 
-# Background
-Education: I hold a Bachelor's degree in Computer Science from Murang'a University of Technology, Kenya.
+# Education
+## Bachelor's degree in Computer Science 
+   **Institution:  Murang'a University of Technology.
+   **Location: Murang'a County, Kenya.
+   **Year of Graduation: 2023.
+
+## CCNA Certifiaction
+   ** Institution: Jomo Kenyatta University of Agriculture and Technology.
+   ** Loation: Juja, Kiambu County.
+   **Year of Completion: November 2023.
+
+## Kali Linux
+   ** Self-Study and Practical Experience
+   ** Year of Proficiency: 2023
 
 # Skills
 I have gained proficiency in various areas of software development, including but not limited to:
@@ -18,6 +30,8 @@ I have gained proficiency in various areas of software development, including bu
 . Database Management: MySQL, MongoDB
 . Version Control: Git, GitHub
 . Software Engineering Practices: Agile, Scrum, Test-Driven Development (TDD)
+. Networking: Cisco Certified Network Associate (CCNA), Cisco Networking
+. Cybersecurity: Kali Linux, Ethical Hacking
 
 # Goals
 My long-term goal is to become a proficient software engineer with a deep understanding of software development best practices.
