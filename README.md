@@ -27,9 +27,10 @@ I have gained proficiency in various areas of software development, including bu
 
 * Programming Languages: Python, C++
 * Web Development: HTML, CSS, JavaScript, React
-* Database Management: MySQL, MongoDB
+* Backend Development: Flask
+* Database Management: MongoDB
 * Version Control: Git, GitHub
-* Software Engineering Practices: Agile, Scrum, Test-Driven Development (TDD)
+* Software Engineering Practices: Agile, Waterfall
 * Networking: Cisco Certified Network Associate (CCNA), Cisco Networking
 * Cybersecurity: Kali Linux, Ethical Hacking
 
