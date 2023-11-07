@@ -9,8 +9,6 @@ I am enthusiastic about programming and technology, and I'm constantly seeking t
 
 # Background
 Education: I hold a Bachelor's degree in Computer Science from Murang'a University of Technology, Kenya.
-Location: Nairobi, Kenya
-Email: gicharugerald@gmail.com
 
 # Skills
 I have gained proficiency in various areas of software development, including but not limited to:
@@ -27,13 +25,14 @@ I am dedicated to acquiring hands-on experience in building software solutions t
 
 # Connect with Me
 You can find me on GitHub,LinkedIn and other platforms. On GitHub is where I often share my coding projects and contribute to open-source repositories.
-. GitHub: https://github.com/Gerald-GG
+. <a href="https://github.com/Gerald-GG">Visit my GitHub Profile</a>
 
-. Instagram: https://www.instagram.com/gerald_.gg/
+. <a href="https://www.instagram.com/gerald_.gg/">Reach me on Instragram</a>
 
-. LinkedIn: https://www.linkedin.com/in/gerald-mwangi-3a6067244/
+. <a href="https://www.linkedin.com/in/gerald-mwangi-3a6067244/">Connect with me on LinkedIn</a>
 
 .Email: gicharugerald@gmail.com
+
 
 I am always open to networking and collaborating on exciting projects. Please feel free to reach out to me via email or on GitHub or any other platform
 
