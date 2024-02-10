@@ -13,7 +13,7 @@ I am enthusiastic about programming and technology, and I'm constantly seeking t
    * Location: Murang'a County, Kenya.
    * Year of Graduation: 2023.
 
-## CCNA Certifiaction
+## CCNA Certification 
    * Institution: Jomo Kenyatta University of Agriculture and Technology.
    * Loation: Juja, Kiambu County.
    * Year of Completion: November 2023.
@@ -43,11 +43,11 @@ You can find me on GitHub,LinkedIn and other platforms. On GitHub is where I oft
 
 * <a href="https://github.com/Gerald-GG">Visit my GitHub Profile</a>
 
-* <a href="https://www.instagram.com/gerald_.gg/">Reach me on Instragram</a>
+* <a href="https://www.instagram.com/gerald_.gg/">Reach me on Instagram</a>
 
 * <a href="https://www.linkedin.com/in/gerald-mwangi-3a6067244/">Connect with me on LinkedIn</a>
 
-* <a href="gicharugerald@gmail.com">Write and Reach me on my gmail<a/>
+* <a href="gicharugerald@gmail.com">Write and Reach me on my Gmail<a/>
 
 
 I am always open to networking and collaborating on exciting projects. Please feel free to reach out to me via email or on GitHub or any other platform
