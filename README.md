@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gicharugerald@gmail.com**
 
-- ⚡ Fun fact **Driving in the evening to watch the sunset, enjoy my coffee or soft-drink while at it.**
+- ⚡ Fun fact **Your brain is constantly eating itself. This process is called phagocytosis, where cells envelop and consume smaller cells or molecules to remove them from the system. Don’t worry! Phagocytosis isn't harmful, but helps preserve your grey matter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
